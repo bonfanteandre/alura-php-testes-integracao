@@ -3,3 +3,6 @@ Alura\Leilao\Tests\Integration\Dao\LeilaoDao
  [x] E busca leiloes finalizados with data set #0
  [x] Ao atualizar leilao status deve ser alterado
 
+Alura\Leilao\Tests\Integration\Web\Rest
+ [x] Api rest deve retornar array de leiloes
+
